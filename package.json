@@ -55,7 +55,7 @@
     "bitcoinjs-lib": "git+https://github.com/bitcoinjs/bitcoinjs-lib.git",
     "merkle-bitcoin": "git+https://github.com/Original-Tasty/merkle-bitcoin",
     "promise": "*",
-    "multi-hashing": "git://github.com/Original-Tasty/node-multi-hashing",
+    "multi-hashing": "git://github.com/zone117x/node-multi-hashing",
     "sha3": "git+https://github.com/phusion/node-sha3.git"
   },
   "deprecated": false,
